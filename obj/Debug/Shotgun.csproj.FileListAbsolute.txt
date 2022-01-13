@@ -1,0 +1,13 @@
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\bin\Debug\Shotgun.exe.config
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\bin\Debug\Shotgun.exe
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\bin\Debug\Shotgun.pdb
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.csproj.AssemblyReference.cache
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.Forms.FormGame.resources
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.csproj.GenerateResource.cache
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.csproj.CoreCompileInputs.cache
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.exe
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.pdb
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.Forms.FormQuitGame.resources
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.FormStartMenu.resources
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\bin\Debug\Resources.resx
+C:\Users\Max\Programmering .NET\Inlämningsuppgifter\Inlämningsuppgift 2 Skapa ett spel - Shotgun\Shotgun\obj\Debug\Shotgun.Resources.resources
